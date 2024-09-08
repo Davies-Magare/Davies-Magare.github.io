@@ -77,7 +77,7 @@ $(function () {
 		  $('#tryAgain').removeClass('hidden');
 		  $('#tryAgain').addClass('buttons');
 		  $('#tryAgain').on('click', function() {
-			  window.location.href = 'user-input.html';
+			  window.location.href = 'index.html';
 		  });
         }
 
