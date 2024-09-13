@@ -52,7 +52,8 @@ $(function () {
   });
 
   $('.words').draggable({
-    revert: 'invalid'
+    revert: 'invalid',
+	containment: 'window'
   });
 
   $('.drop-area').droppable({
