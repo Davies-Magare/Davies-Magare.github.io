@@ -26,4 +26,6 @@ writing skills, punctuation, and grammar.</p>
 <p>Add a landing page to explain more about the project.</p>
 <h1>Contributors</h1>
 <p>Davies Magare davieskamanda@gmail.com</p>
+<h2>Deployed project</h2>
+<p>https://github.com/Davies-Magare/Davies-Magare.github.io</p>
 
