@@ -27,5 +27,5 @@ writing skills, punctuation, and grammar.</p>
 <h1>Contributors</h1>
 <p>Davies Magare davieskamanda@gmail.com</p>
 <h2>Deployed project</h2>
-<p>https://github.com/Davies-Magare/Davies-Magare.github.io</p>
+<p>https://davies-magare.github.io/</p>
 
